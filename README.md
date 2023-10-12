@@ -16,18 +16,16 @@
 <div align="center"> 
 
 
-  
 ####  :wave: Welcome my github profile !
 
+### I am studying computer engineering and web development⚡️ 
+### I hope to become a good developer someday 😀
+
+<!--
 <a href="https://www.instagram.com/noeyh66/" target="_blank"><img src="https://img.shields.io/badge/Instagram-181717?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+-->
 
 
-  
- <br/>
- <br/>
-  
-
-  
  <br/>
   
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -41,13 +39,10 @@
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
  
    <br/>
-   <br/>
+
  
 #### :pencil2: Study log
- 
   <br/>
-    
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://velog.io/@somm)
 </div>
 
 
