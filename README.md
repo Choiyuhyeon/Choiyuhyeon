@@ -18,7 +18,7 @@
 
 ###  :wave: Welcome my github profile !
 
- I am studying computer engineering and web development⚡️ 
+ I am studying cording and web development⚡️ 
  I hope to become a good developer someday 😀
 
 <!--
