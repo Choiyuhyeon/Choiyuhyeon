@@ -16,7 +16,7 @@
 <div align="center"> 
 
 <div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+  <img src="https://www.canva.com/design/DAFy_wMTP8U/TpTKSkN8luy38VnptIRWgA/view?utm_content=DAFy_wMTP8U&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview" />
 </div>
 
 
