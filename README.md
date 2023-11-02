@@ -16,7 +16,7 @@
 <div align="center"> 
 
 <div align="center">
-  <img src="kmkm1.jpg"/>
+  <img src="kmkm1.png"/>
 </div>
 
 
