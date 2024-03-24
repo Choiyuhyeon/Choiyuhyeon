@@ -43,8 +43,8 @@
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
  
    <br/>
-![Choiyuhyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choiyuhyeon&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Choiyuhyeon)](https://github.com/Choiyuhyeon/github-readme-stats)
+// ![Choiyuhyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choiyuhyeon&show_icons=true&theme=tokyonight)
+// [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Choiyuhyeon)](https://github.com/Choiyuhyeon/github-readme-stats)
  
 #### :pencil2: Study log
   <br/>
