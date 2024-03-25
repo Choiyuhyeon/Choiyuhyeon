@@ -41,6 +41,9 @@
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
+
+![Choiyuhyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choiyuhyeon&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Choiyuhyeon)](https://github.com/Choiyuhyeon/github-readme-stats)
  
    <br/>
 
